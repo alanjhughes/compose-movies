@@ -1,4 +1,4 @@
-package ie.armour.composemovies.utils
+package com.alanhughes.composemovies.utils
 
 
 object Endpoints {

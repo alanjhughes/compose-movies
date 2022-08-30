@@ -1,4 +1,4 @@
-package ie.armour.composemovies
+package com.alanhughes.composemovies
 
 import org.junit.Test
 

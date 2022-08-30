@@ -9,7 +9,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "ie.armour.composemovies"
+        applicationId "com.alanhughes.composemovies"
         minSdk 23
         targetSdk 33
         versionCode 1
@@ -81,6 +81,9 @@ dependencies {
     //hilt
     implementation "com.google.dagger:hilt-android:$hilt_version"
     kapt "com.google.dagger:hilt-compiler:$hilt_version"
+    //appyx
+    implementation "com.bumble.appyx:core:$appyx_version"
+
 
     //tests
     testImplementation 'junit:junit:4.13.2'

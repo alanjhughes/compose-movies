@@ -1,4 +1,4 @@
-package ie.armour.composemovies.app
+package com.alanhughes.composemovies.app
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

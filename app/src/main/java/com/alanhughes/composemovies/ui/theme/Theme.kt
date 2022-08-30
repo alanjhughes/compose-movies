@@ -1,4 +1,4 @@
-package ie.armour.composemovies.ui.theme
+package com.alanhughes.composemovies.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
